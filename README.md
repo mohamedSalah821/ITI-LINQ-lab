@@ -22,3 +22,6 @@ It includes multiple parts of exercises exploring LINQ queries in C# with **Meth
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohamedSalah821/ITI-LINQ-lab.git
+## Author
+
+- [Mohamed Salah](https://github.com/mohamedSalah821)
